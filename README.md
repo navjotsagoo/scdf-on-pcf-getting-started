@@ -50,7 +50,7 @@ We will use part of this domain to login with the spring cloud data flow shell b
 
 From the homepage link above, the **`dataflow.uri`** will be
 
-    `https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud`
+`https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud`
 
 5. Open a terminal and download the spring cloud data flow shell.
 ```bash
