@@ -44,7 +44,9 @@ Updated: 2017-12-15T04:17:59Z
 4. This is the homepage for Spring Cloud Data Flow server. Note down the url from your browser now.
 `https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud/dashboard/index.html#/apps/apps`. We will use part of this domain to login with the spring cloud data flow shell below.
 
-    From the above homepage, the `dataflow.uri` will be `https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud`
+    From the homepage link above, the `dataflow.uri` will be
+
+    `https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud`
 
 5. Open a terminal and download the spring cloud data flow shell.
 ```bash
