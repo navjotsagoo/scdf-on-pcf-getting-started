@@ -38,7 +38,7 @@ Started: 2017-12-15T04:14:55Z
 Updated: 2017-12-15T04:17:59Z
 ```
 
-3. Visit the `Dashboard` and login with your Cloud Foundry credentials
+3. Visit the **`Dashboard`** and login with your Cloud Foundry credentials
 
 `https://p-dataflow.apps.cloud/instances/32d68866-9cd5-4607-8d42-25936b3fced7/dashboard`
 
@@ -48,7 +48,7 @@ Updated: 2017-12-15T04:17:59Z
 
 We will use part of this domain to login with the spring cloud data flow shell below.
 
-    From the homepage link above, the `dataflow.uri` will be
+    From the homepage link above, the **`dataflow.uri`** will be
 
     `https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud`
 
