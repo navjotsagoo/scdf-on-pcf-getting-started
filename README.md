@@ -59,12 +59,12 @@ java -jar spring-cloud-dataflow-shell-1.2.3.RELEASE.jar \
 --dataflow.uri=https://dataflow-32d68866-9cd5-4607-8d42-25936b3fced7.apps.cloud \
 --dataflow.credentials-provider-command="cf oauth-token"
 ```
-**
+
 7. Verify connection by running the command in dataflow shell
 ```bash
 dataflow:>dataflow config info
 ```
-You should see a information about successful login
+You should see lots of information about Cloud Foundry & Spring Cloud Data Flow server
 
 8. Register all out-of-the box applications built with RabbitMq binder
 ```bash
