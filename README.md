@@ -29,7 +29,7 @@ Tags:
 Plan: standard
 Description: Deploys Spring Cloud Data Flow servers to orchestrate data pipelines
 Documentation url: http://cloud.spring.io/spring-cloud-dataflow/
-Dashboard: https://p-dataflow.apps.cloud/instances/32d68866-9cd5-4607-8d42-25936b3fced7/dashboard
+**Dashboard**: https://p-dataflow.apps.cloud/instances/32d68866-9cd5-4607-8d42-25936b3fced7/dashboard
 
 Last Operation
 Status: *create succeeded*
