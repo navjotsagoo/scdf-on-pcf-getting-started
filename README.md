@@ -5,6 +5,7 @@ These instructions are for getting started with Spring Cloud Data Flow when depl
 Pre-Req:
 - Spring Cloud Data Flow installed as a tile on Pivotal Cloud Foundry. If installed correctly, it should show up as a service in PCF Marketplace.
 - Java Installed on local workstation
+- CF CLI 
 
 ```bash
 cf marketplace
